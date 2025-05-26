@@ -12,7 +12,7 @@ A simple Ethereum smart contract that acts as a digital will. It allows an owner
 - 💰 Accepts and transfers ETH securely
 
 ---
-
+```
 ## 🧱 Contract Details
 
 - **Language**: Solidity `^0.8.0`
