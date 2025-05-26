@@ -22,4 +22,5 @@ A simple Ethereum smart contract that acts as a digital will. It allows an owner
 ```
 contact details:0xf8e81D47203A594245E36C48e151709F0C19fBe8
 
-![Screenshot (1)](https://github.com/user-attachments/assets/959a4474-18ad-4a93-9d5a-4728530fdb68)
+
+![Screenshot (1)](https://github.com/user-attachments/assets/cc49a6a0-8dfa-45a0-afbf-2728a61bebe1)
